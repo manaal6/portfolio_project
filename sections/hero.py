@@ -13,8 +13,7 @@ def hero_section():
             FPGA
         </p>
         <p class="hero-bio" style="max-width:540px;color:#aaa;font-size:1rem;line-height:1.8;margin-bottom:2.5rem;font-weight:300;">
-            Academically strong student with a 3.93 GPA. Passionate about building smart tech and AR/XR solutions.
-            Experience in Python, C/C++, Linux, Cloud, and AR development.
+            I’m Manaal Pervaiz, an Embedded Systems & AI enthusiast with hands-on experience in IoT, cloud, AR/XR, and AI projects. Skilled in Python, C/C++, graphics design, and cloud technologies, I love turning ideas into functional, interactive applications. Open to opportunities and passionate about creating impactful tech solutions.
         </p>
         <div class="hero-cta" style="display:flex;gap:1rem;flex-wrap:wrap;">
             <a href="mailto:manaalpervaiz6@gmail.com" class="btn-primary" style="display:inline-flex;align-items:center;gap:.5rem;padding:.8rem 1.8rem;border-radius:8px;font-weight:600;font-size:.9rem;text-decoration:none;background:#f39c12;color:#0a0a0a;box-shadow:0 0 30px rgba(243,156,18,0.35);">&#9993; Get In Touch</a>

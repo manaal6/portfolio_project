@@ -32,12 +32,12 @@ def experience_section():
       <div class="desc">Achieved 300% growth in brand reach through digital campaigns, trained AR developer interns, and supported peer startups.</div>
     </div>
     <div class="item"><div class="dot"></div>
-      <div class="role">Social Media &amp; Digital Presence Manager</div>
+      <div class="role">Social Media Manager</div>
       <div class="org">ZUNF Medicare</div>
       <div class="desc">Managed content, campaigns, and social media strategy for brand awareness.</div>
     </div>
     <div class="item"><div class="dot"></div>
-      <div class="role">Founder</div>
+      <div class="role">Digital Presence Manager</div>
       <div class="org">Brain Creative</div>
       <div class="desc">Visiting schools across Pakistan for behavioral analysis, providing counseling, and opening a skill-based institute focusing on children's mental health.</div>
     </div>
